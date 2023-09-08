@@ -111,6 +111,10 @@ cursor:pointer;
       margin-right: 15px;
       font-size:13px;
       
+      .col img{
+         width: 30px;
+         margin-right:2px;
+      }
    }
 }
 
