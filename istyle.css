@@ -36,7 +36,7 @@ body{
    flex:1;
    margin-right: 15px;
    font-size:19px;
-font-family: cursive;
+font-family:  system-ui;
 }
 
 .search button{
@@ -60,13 +60,13 @@ cursor:pointer;
 .weather h1{
    font-size: 70px;
    font-weight: 500;
-   font-family: cursive;
+   font-family:  system-ui;
 }
 .weather h2{
    font-size: 40px;
    font-weight: 400;
    margin-top: -10px;
-   font-family: cursive;
+   font-family: system-ui;
 }
 .detail {
 
